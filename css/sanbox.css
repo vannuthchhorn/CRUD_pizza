@@ -1,0 +1,16 @@
+.container {
+    margin: 0 auto;
+    width: 600px;
+}
+input[type="text"] {
+    padding: 10px;
+}
+select {
+    padding: 10px;
+}
+input[type='submit'] {
+    padding: 10px;
+    background: teal;
+    color: #fff;
+    border:none;
+}
